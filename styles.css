@@ -124,6 +124,10 @@ margin-bottom: 70px;
   border-right: 1px solid #d7d1c7c7;
   padding-right: 40px;
 }
+
+footer {
+  padding: 30px;
+}
 ul li {
   list-style: none;
 }
